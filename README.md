@@ -97,5 +97,5 @@ Tune Share Hub allows users to create or join rooms to share and listen to their
 5. Open the application in your browser at `http://localhost:5000`.
 
 
-[[img1.png]]
-[[img2.png]]
+[[./img1.png]]
+[[./img2.png]]
